@@ -1,1 +1,1 @@
-# DataScienceM
+# DataScienceMasters
